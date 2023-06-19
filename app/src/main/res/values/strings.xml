@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Logn_Firebase</string>
+    <string name="info_deber">Nombre: Angel Cárdenas - M4A</string>
+    <string name="EXITO">¡Login Exitoso!</string>
+    <string name="descExamen">Examen Interciclo - Caso 5</string>
+    <string name="desc_Titulo">Por favor, ingrese los siguientes datos.</string>
+    <string name="registrar">REGISTRAR</string>
+    <string name="correo">Correo</string>
+    <string name="contrase">Contraseña</string>
+    <string name="guardar">GUARDAR</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="nombre">Nombre</string>
+    <string name="registrarse">REGISTRARSE</string>
+    <string name="todo">TODO</string>
+</resources>
